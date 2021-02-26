@@ -1,0 +1,3 @@
+由于操作问题IP实验部分的两个问题没有截到一个包里面，为了和题目的要求保持一致，又将IP实验的两个部分截在了一起并命名为IP，但是实验报告里面对应的并不是名为IP的文件里面的截包情况，而是分别对应IP_1和IP_2里面的数据包，以防误解，特此说明。
+
+Gratuitous ARP里面是包含Gratuitous ARP的文件，ARP中是不包含Gratuitous ARP的。实验报告中Gratuitous ARP部分的截图用的是Gratuitous ARP中的数据，ARP部分的其他数据用的是ARP中的数据，以防误解，特此说明。

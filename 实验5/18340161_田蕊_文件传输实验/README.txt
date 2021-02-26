@@ -1,0 +1,2 @@
+FtpClient 为控制台程序，需要在控制台运行
+P2PClient和P2PSever可以在控制台运行，也可以直接点击运行
